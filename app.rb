@@ -1,6 +1,6 @@
 class App < Sinatra::Base
 
   get '/' do
-    "This is a test"
+    "Hello, World!"
   end
 end
